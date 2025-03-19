@@ -1,4 +1,4 @@
-# ml-01-huntsman
+# ml01_huntsman
 
 ## Overview
 Businesses and organizations often need to understand the relationships between different factors to make better decisions.
