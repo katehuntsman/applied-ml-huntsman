@@ -49,6 +49,6 @@ Each lab project will be completed in its own folder.
    - README.md
 
 - lab05 folder: 
-   - ensemble-case.ipynb
+   - ensemble-huntsman.ipynb
    - README.md
 
