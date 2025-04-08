@@ -30,9 +30,25 @@ Starter files for the example labs
 Each lab project will be completed in its own folder.
 
 - lab01 folder:
-   - ml01.ipynb - COMPLETE THIS 
-   - ml01.py - working script with just the code
-   - README.md - instructions - modify this to present your lab project
+   - ml01.ipynb 
+   - ml01.py 
+   - README.md 
 
+- lab02 folder:
+   - ml02_huntsman.ipynb
+   - README.md
 
+- lab03 folder:
+   - ml03_huntsman.ipynb
+   decision_tree_titantic.png
+   - README.md
+
+- lab04 folder:
+   - ml04_huntsman.ipynb
+   - results_table.png
+   - README.md
+
+- lab05 folder: 
+   - ensemble-case.ipynb
+   - README.md
 
